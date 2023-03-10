@@ -5,6 +5,5 @@ _start:
 	mov r0, #1  @// Á¢¼´Êý
 	mov r1, r0	@// ¼Ä´æÆ÷
 	mov r2, r1, lsl #2	 @// ¼Ä´æÆ÷ÒÆÎ»
-
 stop:
 	b stop
