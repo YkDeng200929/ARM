@@ -1,0 +1,1 @@
+fun.o: fun.c

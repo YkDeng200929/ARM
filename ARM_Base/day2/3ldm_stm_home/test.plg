@@ -1,0 +1,23 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\onedrive\ykdeng_ttdhx\OneDrive - ttdhx\Laptop\Desktop\Arm_New\day2\3ldm_home\test.uvproj
+Project File Date:  01/31/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling start.s...
+start.s: Assembler messages:
+start.s(10): error: bad instruction `stmia, r0,{r1-r3,r5}'
+start.s(16): error: bad instruction `ldmia, r0,{r1-r3,r5}'
+Target not created
+Build target 'Target 1'
+assembling start.s...
+linking...
+"test.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling start.s...
+linking...
+"test.elf" - 0 Error(s), 0 Warning(s).

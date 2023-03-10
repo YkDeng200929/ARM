@@ -1,0 +1,3 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\start.s)(0x63DB71FD)(-mcpu=arm920t -gdwarf-2 -mthumb-interwork --MD start.d -ID:\keil4\ARM\INC\Samsung\ -alhms="start.lst" -o start.o)
+F (.\fun.c)(0x63DB717F)(-c -mcpu=arm920t -gdwarf-2 -MD -Wall -O -mapcs-frame -mthumb-interwork -ID:\keil4\ARM\INC\Samsung\ -Wa,-alhms="fun.lst" -o fun.o)

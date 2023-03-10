@@ -1,0 +1,1 @@
+-mthumb-interwork -Wl,-Map=".\test.map",-Ttext=0x0 -o test.elf "start.o" -nostartfiles -lm
